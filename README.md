@@ -42,21 +42,6 @@
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)
 
 
-## &#x1f4c8; GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=msamyashash&theme=monokai)
-
-  <img align="center" src="https://github-readme-stats-liard-beta-64.vercel.app/api/top-langs/?username=msamyashash&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-<br>
-
-  <img align="center" src="https://github-readme-stats-liard-beta-64.vercel.app/api?username=msamyashash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MSamyAshAsh's GitHub Stats" />
-
-
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=msamyashash&theme=nord&title=Commits,Experience)
 
 ## <img src="stack-overflow.png"> Stackoverflow stats</strong>
 
