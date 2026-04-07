@@ -7,7 +7,7 @@
 <img src="https://media.tenor.com/_ZTkC0689ucAAAAi/rainbow-stars-stars.gif" width="35" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Inspired%20Yet%3F&fontSize=50&fontColor=FF00FF&animation=twinkling&stroke=00FFFF&strokeWidth=1&fontAlignY=55" alt="Inspired Yet?" />
 <img src="https://media.tenor.com/_ZTkC0689ucAAAAi/rainbow-stars-stars.gif" width="35" />
-
+<br>
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&repeat=true&width=800&height=35&lines=Angular+%C2%B7+Ionic+%C2%B7+NestJS+%C2%B7+Three.js+%C2%B7+MongoDB+%C2%B7+AI+Workflows+%C2%B7+N8N" alt="Typing SVG" />
 
 <br>
@@ -26,7 +26,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [SYSTEM] KERNEL INITIALIZED                                     ║
 ║  [USER]   M.Samy AshAsh — Software Developer                     ║
-║  [LOC]    EG                                                     ║
+║  [LOC]    Giza, Egypt                                            ║
 ║  [STATUS] ONLINE                                                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
